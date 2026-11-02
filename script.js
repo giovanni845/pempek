@@ -1,7 +1,7 @@
 // GANTI dengan nomor WhatsApp bisnis kamu.
 // Gunakan format internasional tanpa tanda +, spasi, atau angka 0 di depan.
 // Contoh: 6281234567890
-const nomorWhatsApp = "6281234567890";
+const nomorWhatsApp = "62895365125814";
 
 function pesanWhatsApp(namaMenu, harga) {
   const hargaTeks = Number(harga) > 0
